@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # What is Axonect API Platform?
 Let's discover **Axonect API Platform in less than 5 minutes**.
-## To start with...
+## To start with
 ---
 
 ### Install Axonect
